@@ -1,0 +1,527 @@
+date,amount,category,description
+14-01-2022,120.0,Income,Freelance Work
+15-01-2022,50.0,Expense,Groceries
+16-01-2022,200.0,Income,Contract Work
+17-01-2022,30.0,Expense,Utilities
+18-01-2022,300.0,Income,Investment Return
+19-01-2022,75.0,Expense,Medical Bills
+20-01-2022,250.0,Income,Side Business
+21-01-2022,40.0,Expense,Books
+22-01-2022,500.0,Income,Consulting Fee
+23-01-2022,60.0,Expense,Transport
+24-01-2022,150.0,Income,Gift
+25-01-2022,70.0,Expense,Entertainment
+26-01-2022,400.0,Income,Freelance Project
+27-01-2022,90.0,Expense,Shopping
+28-01-2022,350.0,Income,Contract Work
+29-01-2022,55.0,Expense,Medical Bills
+30-01-2022,600.0,Income,Investment Income
+31-01-2022,85.0,Expense,Groceries
+01-02-2022,450.0,Income,Freelance Work
+02-02-2022,100.0,Expense,Utilities
+03-02-2022,200.0,Income,Side Business
+04-02-2022,65.0,Expense,Books
+05-02-2022,550.0,Income,Consulting Fee
+06-02-2022,90.0,Expense,Transport
+07-02-2022,300.0,Income,Freelance Project
+08-02-2022,75.0,Expense,Entertainment
+09-02-2022,700.0,Income,Investment Return
+10-02-2022,110.0,Expense,Medical Bills
+11-02-2022,250.0,Income,Side Business
+12-02-2022,80.0,Expense,Groceries
+13-02-2022,500.0,Income,Freelance Work
+14-02-2022,95.0,Expense,Utilities
+15-02-2022,350.0,Income,Contract Work
+16-02-2022,70.0,Expense,Books
+17-02-2022,600.0,Income,Investment Income
+18-02-2022,85.0,Expense,Transport
+19-02-2022,400.0,Income,Freelance Project
+20-02-2022,65.0,Expense,Entertainment
+21-02-2022,550.0,Income,Side Business
+22-02-2022,75.0,Expense,Medical Bills
+23-02-2022,300.0,Income,Freelance Work
+24-02-2022,90.0,Expense,Groceries
+25-02-2022,700.0,Income,Investment Return
+26-02-2022,100.0,Expense,Utilities
+27-02-2022,250.0,Income,Consulting Fee
+28-02-2022,80.0,Expense,Books
+01-03-2022,500.0,Income,Freelance Project
+02-03-2022,60.0,Expense,Transport
+03-03-2022,350.0,Income,Side Business
+04-03-2022,95.0,Expense,Medical Bills
+05-03-2022,600.0,Income,Investment Income
+06-03-2022,75.0,Expense,Groceries
+07-03-2022,400.0,Income,Freelance Work
+08-03-2022,80.0,Expense,Utilities
+09-03-2022,300.0,Income,Contract Work
+10-03-2022,90.0,Expense,Books
+11-03-2022,700.0,Income,Freelance Project
+12-03-2022,65.0,Expense,Transport
+13-03-2022,250.0,Income,Consulting Fee
+14-03-2022,85.0,Expense,Medical Bills
+15-03-2022,500.0,Income,Investment Return
+16-03-2022,70.0,Expense,Groceries
+17-03-2022,350.0,Income,Side Business
+18-03-2022,95.0,Expense,Utilities
+19-03-2022,600.0,Income,Freelance Work
+20-03-2022,80.0,Expense,Books
+21-03-2022,400.0,Income,Contract Work
+22-03-2022,100.0,Expense,Transport
+23-03-2022,700.0,Income,Investment Income
+24-03-2022,90.0,Expense,Medical Bills
+25-03-2022,250.0,Income,Side Business
+26-03-2022,85.0,Expense,Groceries
+27-03-2022,500.0,Income,Freelance Project
+28-03-2022,75.0,Expense,Utilities
+29-03-2022,350.0,Income,Consulting Fee
+30-03-2022,80.0,Expense,Books
+31-03-2022,600.0,Income,Freelance Work
+01-04-2022,90.0,Expense,Transport
+02-04-2022,400.0,Income,Contract Work
+03-04-2022,95.0,Expense,Medical Bills
+04-04-2022,700.0,Income,Investment Income
+05-04-2022,100.0,Expense,Groceries
+06-04-2022,250.0,Income,Side Business
+07-04-2022,85.0,Expense,Utilities
+08-04-2022,500.0,Income,Freelance Project
+09-04-2022,70.0,Expense,Books
+10-04-2022,350.0,Income,Consulting Fee
+11-04-2022,60.0,Expense,Transport
+12-04-2022,600.0,Income,Freelance Work
+13-04-2022,95.0,Expense,Medical Bills
+14-04-2022,700.0,Income,Investment Income
+15-04-2022,75.0,Expense,Groceries
+16-04-2022,400.0,Income,Contract Work
+17-04-2022,80.0,Expense,Utilities
+18-04-2022,500.0,Income,Freelance Project
+19-04-2022,90.0,Expense,Books
+20-04-2022,350.0,Income,Side Business
+21-04-2022,60.0,Expense,Transport
+22-04-2022,600.0,Income,Investment Income
+23-04-2022,95.0,Expense,Medical Bills
+24-04-2022,250.0,Income,Consulting Fee
+25-04-2022,85.0,Expense,Groceries
+26-04-2022,500.0,Income,Freelance Work
+27-04-2022,70.0,Expense,Utilities
+28-04-2022,350.0,Income,Contract Work
+29-04-2022,90.0,Expense,Books
+30-04-2022,700.0,Income,Investment Income
+01-05-2022,100.0,Expense,Transport
+02-05-2022,250.0,Income,Side Business
+03-05-2022,75.0,Expense,Medical Bills
+04-05-2022,600.0,Income,Freelance Project
+05-05-2022,85.0,Expense,Groceries
+06-05-2022,400.0,Income,Contract Work
+07-05-2022,90.0,Expense,Utilities
+08-05-2022,500.0,Income,Consulting Fee
+09-05-2022,70.0,Expense,Books
+10-05-2022,350.0,Income,Side Business
+11-05-2022,95.0,Expense,Transport
+12-05-2022,700.0,Income,Investment Income
+13-05-2022,80.0,Expense,Medical Bills
+14-05-2022,250.0,Income,Freelance Work
+15-05-2022,75.0,Expense,Groceries
+16-05-2022,600.0,Income,Consulting Fee
+17-05-2022,90.0,Expense,Utilities
+18-05-2022,400.0,Income,Contract Work
+19-05-2022,85.0,Expense,Books
+20-05-2022,350.0,Income,Freelance Project
+21-05-2022,65.0,Expense,Transport
+22-05-2022,500.0,Income,Side Business
+23-05-2022,100.0,Expense,Medical Bills
+24-05-2022,700.0,Income,Investment Income
+25-05-2022,90.0,Expense,Groceries
+26-05-2022,250.0,Income,Consulting Fee
+27-05-2022,80.0,Expense,Utilities
+28-05-2022,600.0,Income,Freelance Work
+29-05-2022,95.0,Expense,Books
+30-05-2022,350.0,Income,Contract Work
+31-05-2022,70.0,Expense,Transport
+01-06-2022,500.0,Income,Freelance Project
+02-06-2022,75.0,Expense,Medical Bills
+03-06-2022,400.0,Income,Side Business
+04-06-2022,85.0,Expense,Groceries
+05-06-2022,700.0,Income,Investment Income
+06-06-2022,90.0,Expense,Utilities
+07-06-2022,250.0,Income,Freelance Work
+08-06-2022,60.0,Expense,Books
+09-06-2022,350.0,Income,Contract Work
+10-06-2022,95.0,Expense,Transport
+11-06-2022,500.0,Income,Consulting Fee
+12-06-2022,70.0,Expense,Medical Bills
+13-06-2022,600.0,Income,Freelance Project
+14-06-2022,85.0,Expense,Groceries
+15-06-2022,400.0,Income,Side Business
+16-06-2022,90.0,Expense,Utilities
+17-06-2022,700.0,Income,Investment Income
+18-06-2022,75.0,Expense,Books
+19-06-2022,250.0,Income,Freelance Work
+20-06-2022,95.0,Expense,Transport
+21-06-2022,350.0,Income,Contract Work
+22-06-2022,85.0,Expense,Medical Bills
+23-06-2022,600.0,Income,Freelance Project
+24-06-2022,70.0,Expense,Groceries
+25-06-2022,500.0,Income,Consulting Fee
+26-06-2022,90.0,Expense,Utilities
+27-06-2022,400.0,Income,Side Business
+28-06-2022,95.0,Expense,Books
+29-06-2022,700.0,Income,Investment Income
+30-06-2022,85.0,Expense,Transport
+01-07-2022,250.0,Income,Freelance Work
+02-07-2022,75.0,Expense,Medical Bills
+03-07-2022,600.0,Income,Consulting Fee
+04-07-2022,90.0,Expense,Groceries
+05-07-2022,400.0,Income,Contract Work
+06-07-2022,85.0,Expense,Utilities
+07-07-2022,700.0,Income,Investment Income
+08-07-2022,75.0,Expense,Books
+09-07-2022,250.0,Income,Side Business
+10-07-2022,95.0,Expense,Transport
+11-07-2022,500.0,Income,Freelance Project
+12-07-2022,70.0,Expense,Medical Bills
+13-07-2022,400.0,Income,Freelance Work
+14-07-2022,90.0,Expense,Groceries
+15-07-2022,600.0,Income,Investment Income
+16-07-2022,85.0,Expense,Utilities
+17-07-2022,250.0,Income,Contract Work
+18-07-2022,100.0,Expense,Books
+19-07-2022,700.0,Income,Freelance Project
+20-07-2022,75.0,Expense,Transport
+21-07-2022,350.0,Income,Side Business
+22-07-2022,90.0,Expense,Medical Bills
+23-07-2022,500.0,Income,Consulting Fee
+24-07-2022,85.0,Expense,Groceries
+25-07-2022,600.0,Income,Investment Income
+26-07-2022,95.0,Expense,Utilities
+27-07-2022,400.0,Income,Freelance Work
+28-07-2022,80.0,Expense,Books
+29-07-2022,250.0,Income,Contract Work
+30-07-2022,90.0,Expense,Transport
+31-07-2022,700.0,Income,Freelance Project
+01-08-2022,85.0,Expense,Medical Bills
+02-08-2022,400.0,Income,Side Business
+03-08-2022,95.0,Expense,Groceries
+04-08-2022,600.0,Income,Consulting Fee
+05-08-2022,70.0,Expense,Utilities
+06-08-2022,500.0,Income,Freelance Work
+07-08-2022,90.0,Expense,Books
+08-08-2022,350.0,Income,Contract Work
+09-08-2022,75.0,Expense,Transport
+10-08-2022,700.0,Income,Investment Income
+11-08-2022,100.0,Expense,Medical Bills
+12-08-2022,250.0,Income,Freelance Project
+13-08-2022,85.0,Expense,Groceries
+14-08-2022,600.0,Income,Side Business
+15-08-2022,95.0,Expense,Utilities
+16-08-2022,400.0,Income,Consulting Fee
+17-08-2022,80.0,Expense,Books
+18-08-2022,700.0,Income,Freelance Work
+19-08-2022,70.0,Expense,Transport
+20-08-2022,500.0,Income,Contract Work
+21-08-2022,85.0,Expense,Medical Bills
+22-08-2022,600.0,Income,Investment Income
+23-08-2022,90.0,Expense,Groceries
+24-08-2022,350.0,Income,Side Business
+25-08-2022,100.0,Expense,Utilities
+26-08-2022,250.0,Income,Freelance Project
+27-08-2022,70.0,Expense,Books
+28-08-2022,400.0,Income,Freelance Work
+29-08-2022,90.0,Expense,Transport
+30-08-2022,700.0,Income,Investment Income
+31-08-2022,85.0,Expense,Medical Bills
+01-09-2022,600.0,Income,Consulting Fee
+02-09-2022,75.0,Expense,Groceries
+03-09-2022,250.0,Income,Side Business
+04-09-2022,95.0,Expense,Utilities
+05-09-2022,400.0,Income,Contract Work
+06-09-2022,80.0,Expense,Books
+07-09-2022,500.0,Income,Freelance Project
+08-09-2022,85.0,Expense,Transport
+09-09-2022,700.0,Income,Investment Income
+10-09-2022,90.0,Expense,Medical Bills
+11-09-2022,350.0,Income,Side Business
+12-09-2022,75.0,Expense,Groceries
+13-09-2022,600.0,Income,Freelance Work
+14-09-2022,95.0,Expense,Utilities
+15-09-2022,400.0,Income,Consulting Fee
+16-09-2022,70.0,Expense,Books
+17-09-2022,700.0,Income,Investment Income
+18-09-2022,100.0,Expense,Transport
+19-09-2022,250.0,Income,Side Business
+20-09-2022,85.0,Expense,Medical Bills
+21-09-2022,600.0,Income,Freelance Project
+22-09-2022,95.0,Expense,Groceries
+23-09-2022,350.0,Income,Contract Work
+24-09-2022,80.0,Expense,Utilities
+25-09-2022,500.0,Income,Consulting Fee
+26-09-2022,90.0,Expense,Books
+27-09-2022,700.0,Income,Freelance Work
+28-09-2022,75.0,Expense,Transport
+29-09-2022,400.0,Income,Side Business
+30-09-2022,85.0,Expense,Medical Bills
+01-10-2022,600.0,Income,Investment Income
+02-10-2022,90.0,Expense,Groceries
+03-10-2022,250.0,Income,Contract Work
+04-10-2022,70.0,Expense,Utilities
+05-10-2022,500.0,Income,Freelance Project
+06-10-2022,95.0,Expense,Books
+07-10-2022,700.0,Income,Side Business
+08-10-2022,80.0,Expense,Transport
+09-10-2022,350.0,Income,Freelance Work
+10-10-2022,85.0,Expense,Medical Bills
+11-10-2022,600.0,Income,Consulting Fee
+12-10-2022,90.0,Expense,Groceries
+13-10-2022,400.0,Income,Contract Work
+14-10-2022,75.0,Expense,Utilities
+15-10-2022,700.0,Income,Investment Income
+16-10-2022,95.0,Expense,Books
+17-10-2022,250.0,Income,Freelance Project
+18-10-2022,85.0,Expense,Medical Bills
+19-10-2022,500.0,Income,Freelance Work
+20-10-2022,90.0,Expense,Transport
+21-10-2022,350.0,Income,Side Business
+22-10-2022,70.0,Expense,Groceries
+23-10-2022,600.0,Income,Consulting Fee
+24-10-2022,75.0,Expense,Utilities
+25-10-2022,700.0,Income,Investment Income
+26-10-2022,85.0,Expense,Books
+27-10-2022,400.0,Income,Freelance Project
+28-10-2022,90.0,Expense,Medical Bills
+29-10-2022,500.0,Income,Side Business
+30-10-2022,75.0,Expense,Groceries
+31-10-2022,350.0,Income,Freelance Work
+01-11-2022,100.0,Expense,Utilities
+02-11-2022,700.0,Income,Investment Income
+03-11-2022,90.0,Expense,Transport
+04-11-2022,250.0,Income,Consulting Fee
+05-11-2022,85.0,Expense,Medical Bills
+06-11-2022,600.0,Income,Freelance Project
+07-11-2022,95.0,Expense,Groceries
+08-11-2022,350.0,Income,Side Business
+09-11-2022,80.0,Expense,Utilities
+10-11-2022,500.0,Income,Contract Work
+11-11-2022,75.0,Expense,Books
+12-11-2022,700.0,Income,Freelance Work
+13-11-2022,90.0,Expense,Transport
+14-11-2022,600.0,Income,Investment Income
+15-11-2022,95.0,Expense,Medical Bills
+16-11-2022,250.0,Income,Consulting Fee
+17-11-2022,70.0,Expense,Groceries
+18-11-2022,400.0,Income,Side Business
+19-11-2022,85.0,Expense,Utilities
+20-11-2022,700.0,Income,Freelance Project
+21-11-2022,90.0,Expense,Books
+22-11-2022,350.0,Income,Contract Work
+23-11-2022,75.0,Expense,Transport
+24-11-2022,500.0,Income,Freelance Work
+25-11-2022,95.0,Expense,Medical Bills
+26-11-2022,600.0,Income,Investment Income
+27-11-2022,85.0,Expense,Groceries
+28-11-2022,250.0,Income,Side Business
+29-11-2022,80.0,Expense,Utilities
+30-11-2022,400.0,Income,Consulting Fee
+01-12-2022,95.0,Expense,Books
+02-12-2022,700.0,Income,Freelance Work
+03-12-2022,90.0,Expense,Medical Bills
+04-12-2022,250.0,Income,Contract Work
+05-12-2022,75.0,Expense,Groceries
+06-12-2022,600.0,Income,Freelance Project
+07-12-2022,85.0,Expense,Utilities
+08-12-2022,350.0,Income,Side Business
+09-12-2022,95.0,Expense,Transport
+10-12-2022,500.0,Income,Consulting Fee
+11-12-2022,70.0,Expense,Medical Bills
+12-12-2022,700.0,Income,Investment Income
+13-12-2022,85.0,Expense,Groceries
+14-12-2022,250.0,Income,Side Business
+15-12-2022,90.0,Expense,Utilities
+16-12-2022,600.0,Income,Freelance Work
+17-12-2022,75.0,Expense,Books
+18-12-2022,350.0,Income,Contract Work
+19-12-2022,95.0,Expense,Transport
+20-12-2022,700.0,Income,Investment Income
+21-12-2022,85.0,Expense,Medical Bills
+22-12-2022,250.0,Income,Freelance Project
+23-12-2022,70.0,Expense,Groceries
+24-12-2022,600.0,Income,Side Business
+25-12-2022,90.0,Expense,Utilities
+26-12-2022,400.0,Income,Consulting Fee
+27-12-2022,80.0,Expense,Books
+28-12-2022,500.0,Income,Freelance Work
+29-12-2022,95.0,Expense,Transport
+30-12-2022,700.0,Income,Investment Income
+31-12-2022,85.0,Expense,Medical Bills
+01-01-2023,250.0,Income,Side Business
+02-01-2023,75.0,Expense,Groceries
+03-01-2023,600.0,Income,Consulting Fee
+04-01-2023,90.0,Expense,Utilities
+05-01-2023,400.0,Income,Freelance Work
+06-01-2023,85.0,Expense,Books
+07-01-2023,700.0,Income,Investment Income
+08-01-2023,75.0,Expense,Transport
+09-01-2023,350.0,Income,Side Business
+10-01-2023,95.0,Expense,Medical Bills
+11-01-2023,500.0,Income,Consulting Fee
+12-01-2023,80.0,Expense,Groceries
+13-01-2023,600.0,Income,Freelance Work
+14-01-2023,90.0,Expense,Utilities
+15-01-2023,400.0,Income,Contract Work
+16-01-2023,85.0,Expense,Books
+17-01-2023,700.0,Income,Investment Income
+18-01-2023,75.0,Expense,Medical Bills
+19-01-2023,250.0,Income,Side Business
+20-01-2023,100.0,Expense,Groceries
+21-01-2023,600.0,Income,Consulting Fee
+22-01-2023,90.0,Expense,Utilities
+23-01-2023,400.0,Income,Freelance Work
+24-01-2023,85.0,Expense,Books
+25-01-2023,700.0,Income,Investment Income
+26-01-2023,95.0,Expense,Transport
+27-01-2023,250.0,Income,Side Business
+28-01-2023,80.0,Expense,Medical Bills
+29-01-2023,600.0,Income,Freelance Work
+30-01-2023,90.0,Expense,Groceries
+31-01-2023,500.0,Income,Contract Work
+01-02-2023,85.0,Expense,Utilities
+02-02-2023,700.0,Income,Investment Income
+03-02-2023,90.0,Expense,Books
+04-02-2023,250.0,Income,Consulting Fee
+05-02-2023,95.0,Expense,Medical Bills
+06-02-2023,600.0,Income,Freelance Work
+07-02-2023,75.0,Expense,Transport
+08-02-2023,400.0,Income,Side Business
+09-02-2023,80.0,Expense,Groceries
+10-02-2023,500.0,Income,Contract Work
+11-02-2023,90.0,Expense,Utilities
+12-02-2023,700.0,Income,Investment Income
+13-02-2023,85.0,Expense,Books
+14-02-2023,600.0,Income,Freelance Project
+15-02-2023,70.0,Expense,Medical Bills
+16-02-2023,250.0,Income,Consulting Fee
+17-02-2023,95.0,Expense,Groceries
+18-02-2023,400.0,Income,Side Business
+19-02-2023,90.0,Expense,Transport
+20-02-2023,700.0,Income,Freelance Work
+21-02-2023,85.0,Expense,Utilities
+22-02-2023,600.0,Income,Investment Income
+23-02-2023,75.0,Expense,Books
+24-02-2023,400.0,Income,Consulting Fee
+25-02-2023,90.0,Expense,Groceries
+26-02-2023,250.0,Income,Side Business
+27-02-2023,85.0,Expense,Medical Bills
+28-02-2023,700.0,Income,Freelance Work
+01-03-2023,100.0,Expense,Transport
+02-03-2023,400.0,Income,Consulting Fee
+03-03-2023,85.0,Expense,Groceries
+04-03-2023,600.0,Income,Freelance Project
+05-03-2023,95.0,Expense,Utilities
+06-03-2023,700.0,Income,Side Business
+07-03-2023,70.0,Expense,Books
+08-03-2023,250.0,Income,Freelance Work
+09-03-2023,90.0,Expense,Medical Bills
+10-03-2023,500.0,Income,Investment Income
+11-03-2023,75.0,Expense,Groceries
+12-03-2023,400.0,Income,Contract Work
+13-03-2023,95.0,Expense,Transport
+14-03-2023,600.0,Income,Freelance Project
+15-03-2023,85.0,Expense,Books
+16-03-2023,250.0,Income,Side Business
+17-03-2023,700.0,Income,Investment Income
+18-03-2023,75.0,Expense,Medical Bills
+19-03-2023,500.0,Income,Consulting Fee
+20-03-2023,90.0,Expense,Groceries
+21-03-2023,600.0,Income,Freelance Work
+22-03-2023,85.0,Expense,Utilities
+23-03-2023,400.0,Income,Side Business
+24-03-2023,95.0,Expense,Transport
+25-03-2023,700.0,Income,Investment Income
+26-03-2023,75.0,Expense,Books
+27-03-2023,600.0,Income,Consulting Fee
+28-03-2023,90.0,Expense,Medical Bills
+29-03-2023,400.0,Income,Freelance Work
+30-03-2023,85.0,Expense,Groceries
+31-03-2023,700.0,Income,Freelance Project
+01-04-2023,90.0,Expense,Utilities
+02-04-2023,400.0,Income,Contract Work
+03-04-2023,250.0,Income,Side Business
+04-04-2023,95.0,Expense,Transport
+05-04-2023,600.0,Income,Freelance Work
+06-04-2023,85.0,Expense,Books
+07-04-2023,700.0,Income,Investment Income
+08-04-2023,75.0,Expense,Groceries
+09-04-2023,400.0,Income,Consulting Fee
+10-04-2023,90.0,Expense,Utilities
+11-04-2023,600.0,Income,Side Business
+12-04-2023,95.0,Expense,Books
+13-04-2023,250.0,Income,Freelance Work
+14-04-2023,80.0,Expense,Medical Bills
+15-04-2023,700.0,Income,Investment Income
+16-04-2023,85.0,Expense,Groceries
+17-04-2023,600.0,Income,Consulting Fee
+18-04-2023,90.0,Expense,Utilities
+19-04-2023,400.0,Income,Freelance Work
+20-04-2023,95.0,Expense,Books
+21-04-2023,700.0,Income,Side Business
+22-04-2023,75.0,Expense,Transport
+23-04-2023,500.0,Income,Investment Income
+24-04-2023,80.0,Expense,Groceries
+25-04-2023,600.0,Income,Freelance Project
+26-04-2023,90.0,Expense,Medical Bills
+27-04-2023,400.0,Income,Consulting Fee
+28-04-2023,85.0,Expense,Utilities
+29-04-2023,250.0,Income,Freelance Work
+30-04-2023,95.0,Expense,Books
+01-05-2023,700.0,Income,Investment Income
+02-05-2023,75.0,Expense,Medical Bills
+03-05-2023,400.0,Income,Freelance Work
+04-05-2023,90.0,Expense,Groceries
+05-05-2023,600.0,Income,Consulting Fee
+06-05-2023,85.0,Expense,Utilities
+07-05-2023,700.0,Income,Investment Income
+08-05-2023,95.0,Expense,Books
+09-05-2023,250.0,Income,Side Business
+10-05-2023,70.0,Expense,Transport
+11-05-2023,600.0,Income,Freelance Project
+12-05-2023,90.0,Expense,Medical Bills
+13-05-2023,400.0,Income,Consulting Fee
+14-05-2023,75.0,Expense,Groceries
+15-05-2023,700.0,Income,Freelance Work
+16-05-2023,85.0,Expense,Utilities
+17-05-2023,600.0,Income,Investment Income
+18-05-2023,95.0,Expense,Books
+19-05-2023,250.0,Income,Freelance Project
+20-05-2023,100.0,Expense,Medical Bills
+21-05-2023,700.0,Income,Side Business
+22-05-2023,85.0,Expense,Groceries
+23-05-2023,400.0,Income,Consulting Fee
+24-05-2023,90.0,Expense,Utilities
+25-05-2023,600.0,Income,Freelance Work
+26-05-2023,75.0,Expense,Books
+27-05-2023,700.0,Income,Investment Income
+28-05-2023,85.0,Expense,Medical Bills
+29-05-2023,250.0,Income,Side Business
+30-05-2023,90.0,Expense,Groceries
+31-05-2023,600.0,Income,Freelance Work
+01-06-2023,95.0,Expense,Utilities
+02-06-2023,400.0,Income,Consulting Fee
+03-06-2023,250.0,Income,Side Business
+01-01-2024,500.0,Income,New Year Bonus
+15-01-2024,150.0,Expense,Groceries
+20-01-2024,1200.0,Income,Freelance Work
+05-02-2024,75.0,Expense,Restaurant
+10-02-2024,250.0,Income,Gift
+25-02-2024,60.0,Expense,Transport
+05-03-2024,300.0,Income,Consulting Fee
+15-03-2024,90.0,Expense,Utilities
+20-03-2024,600.0,Income,Project Completion
+10-04-2024,80.0,Expense,Entertainment
+25-04-2024,500.0,Income,Part-Time Job
+30-04-2024,200.0,Expense,Medical Bills
+10-05-2024,150.0,Income,Dividend
+15-05-2024,45.0,Expense,Books
+22-05-2024,320.0,Income,Investment Income
+01-06-2024,90.0,Expense,Travel
+15-06-2024,500.0,Income,Contract Work
+01-07-2024,250.0,Expense,Shopping
+20-07-2024,80.0,Income,Online Course
+05-08-2024,150.0,Expense,Utilities
